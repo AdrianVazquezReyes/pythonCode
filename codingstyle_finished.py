@@ -27,3 +27,4 @@ if __name__ == "__main__":
 print('this is new')
 print('this is the second line')
 print('this line is for another place')
+prnt('four line')
