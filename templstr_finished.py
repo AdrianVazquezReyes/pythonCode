@@ -9,6 +9,7 @@ def main():
     str1 = 'you are reading the book: {0} by {1}'.format('Blue house', 'Edward Alan')
     print(str1)
     print('hello from terminal 1')
+    print('hello from terminal 2 in second branch')
 
     # create a template with placeholders
     templ = Template('you are reading the book: ${title} by ${author}')
